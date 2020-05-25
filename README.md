@@ -1,6 +1,6 @@
 # ToDo List Project
 
-## Create simple ToDo List for create a list
+## Simple ToDo List for app
 
 ### In project used three version to create list:
 
